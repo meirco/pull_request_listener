@@ -1,0 +1,2 @@
+GITHUB_KEY = "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"
+GIT_SECRET = "<`D8%;($T.:HE[."
